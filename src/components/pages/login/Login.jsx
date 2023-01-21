@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from "react-router-dom";
-import "../../styles/login.css";
-import logoimg from "../../images/Dream_Sale_logo-removebg-preview.png"
+import "./login.css";
+import logoimg from "../../../images/Dream_Sale_logo-removebg-preview.png"
 
 export default function Login() {
   return (
@@ -40,7 +40,7 @@ export default function Login() {
         <div className="card-footer">
 
            <Link to="/dashboard">
-           <input type="submit" value="login" className="submit" />
+           <input type="submit" value="Login" className="submit" />
            </Link>
 
             <Link to="/cadastro" className="criar_cadastro"><h3>Criar Cadastro</h3></Link>

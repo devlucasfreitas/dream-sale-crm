@@ -1,0 +1,52 @@
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css');
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-straight/css/uicons-regular-straight.css');
+
+.listacliente {
+    display: flex;
+    justify-content:space-around;
+    align-items:flex-start;
+    border: solid black 1px;
+    border-radius: 6px;
+    margin: 12px;
+    padding: 8px;
+    background-color: white;
+}
+
+.listacliente h4 {
+    text-align: start;
+    align-items:flex-start;
+}
+
+.icones {
+    display: flex;
+}
+
+.icones i {
+    margin: 4px;
+    padding: 6px;
+    background-color: rgb(251, 150, 120);
+    border-radius: 6px;
+    align-items: center;
+}
+
+.icones i:hover {
+    background-color: rgba(251, 151, 120, 0.836); 
+}
+
+.botaoadd h4 {
+    color: white;
+    background-color: rgb(251, 150, 120);
+    padding: 12px 10vw;
+    border-radius: 6px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.botaoadd h4:hover {
+    background-color: rgba(251, 151, 120, 0.829);
+}
+
+.botaoadd {
+    width: fit-content;
+    margin: 2% auto;
+}

@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "name": "editar",
+      "email": "nome@nome",
+      "tel": "deti",
+      "date": "foi",
+      "cpf": "qualquer",
+      "id": "SmOEd5V"
+    },
+    {
+      "name": "Lucas Ferreira Freitas",
+      "email": "lucasf.freitas@outlook.com",
+      "tel": "11979648179",
+      "date": "12/02/1998",
+      "cpf": "23232323232",
+      "id": "K06iga3"
+    },
+    {
+      "name": "Teste",
+      "email": "teste@teste.com",
+      "tel": "11934343443",
+      "date": "12/09/2001",
+      "cpf": "23232323232",
+      "id": "JcZSBI2"
+    }
+  ]
+}

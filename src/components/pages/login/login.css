@@ -33,7 +33,7 @@
 
     padding: 40px;
 
-    border-radius: 2px;
+    border-radius: 6px;
 
     width:280px;
 
@@ -46,24 +46,6 @@
     opacity: 0.8;
 
     color: #fff;
-
-}
-
-.card-header::after {
-
-    content: "";
-
-    width: 70px;
-
-    height: 1px;
-
-    background-color: #fff;
-
-    display: block;
-
-    margin-top: -17px;
-
-    margin-left: -5px;
 
 }
 
