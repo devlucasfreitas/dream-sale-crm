@@ -1,6 +1,7 @@
 import React from 'react'
 import BarraLateral from '../../organisms/barraLateral/BarraLateral'
-import Kanban from '../../organisms/kanBan/Kanban'
+import CardInfo from '../../organisms/cardInfo/CardInfo'
+import KanbanDnd from '../../organisms/kanBan/KanbanDnd'
 import "./Dashboard.css"
 // import Header from '../../organisms/header/Header'
 
@@ -10,10 +11,15 @@ export default function Dashboard() {
       <div className='BarraLateral'>
       <BarraLateral />
       </div>
-    <div>
-    <Kanban />
+      <div>
+      <div className='CardInfo'>
+      <CardInfo />
     </div>
-    
+    <div className='Kanban'>
+    <KanbanDnd />
+    </div>
+      </div>
+     
     </div>
     
   )
