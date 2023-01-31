@@ -19,7 +19,7 @@ export default function Clientes() {
     <div>
       <div className="listaclientes">
         <div className="titulo">
-          <Link to="/dashboard" className="btnVoltar">
+          <Link to="/" className="btnVoltar">
             Voltar
           </Link>
           <h1>Lista de Clientes</h1>
