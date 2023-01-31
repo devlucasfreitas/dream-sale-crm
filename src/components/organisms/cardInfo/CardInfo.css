@@ -1,4 +1,27 @@
 .cardsDeInformações {
     width: 90vw;
     height: 20vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.tasks {
+    border: 2px solid rgb(251, 150, 120);
+    border-radius: 8px;
+    width: 60%;
+    height: 80%;
+    font-size: 4vw;
+    color: rgb(251, 150, 120);
+    text-align: center;
+}
+
+.clientes {
+    border: 2px solid rgb(251, 150, 120);
+    border-radius: 8px;
+    width: 30%;
+    height: 80%;
+    font-size: 4vw;
+    color: rgb(251, 150, 120);
+    text-align: center;
 }

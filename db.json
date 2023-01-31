@@ -1,11 +1,11 @@
 {
   "clientes": [
     {
-      "name": "editar",
-      "email": "nome@nome",
-      "tel": "deti",
-      "date": "foi",
-      "cpf": "qualquer",
+      "name": "testando",
+      "email": "email@teste2.com",
+      "tel": "11945454545",
+      "date": "23/05/1995",
+      "cpf": "45445454545",
       "id": "SmOEd5V"
     },
     {
@@ -23,6 +23,14 @@
       "date": "12/09/2001",
       "cpf": "23232323232",
       "id": "JcZSBI2"
+    },
+    {
+      "name": "fgadgfdasg",
+      "email": "dasfgdsfgs@dgsdags",
+      "tel": "432431542",
+      "date": "2312314",
+      "cpf": "21434354454",
+      "id": "TmB2-1w"
     }
   ]
 }

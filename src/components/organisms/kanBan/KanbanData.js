@@ -44,15 +44,6 @@ export const data = [
     // Priority: 'Medium',
     Due_Date: "05-Jan-2021",
   },
-  {
-    id: "6",
-    Task: "proin",
-    // Assigned_To: 'Bondon',
-    // Assignee: 'Antoinette',
-    // Status: 'In Progress',
-    // Priority: 'Medium',
-    Due_Date: "05-Jan-2021",
-  },
 ];
 
 export const columnsFromBackend = [
