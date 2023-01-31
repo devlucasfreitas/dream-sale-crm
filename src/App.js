@@ -6,7 +6,7 @@ import Clientes from "./components/pages/clientes/Clientes";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<Dashboard />} />
         <Route path="/cadastro" element={<UserCadastro />} />
