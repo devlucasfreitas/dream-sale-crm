@@ -12,9 +12,12 @@ export default function BarraLateral() {
         <Link to="/clientes" className="link">
           Clientes
         </Link>
-        <Link to="/" className="link">
+        <a
+          href="https://devlucasfreitas.github.io/dreamsale/login/login.html"
+          className="link"
+        >
           Sair
-        </Link>
+        </a>
       </div>
     </div>
   );
