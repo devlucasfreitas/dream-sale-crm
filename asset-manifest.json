@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/dream-sale-crm/static/css/main.0e65fe83.css",
-    "main.js": "/dream-sale-crm/static/js/main.756ff5ae.js",
+    "main.js": "/dream-sale-crm/static/js/main.39521d99.js",
     "static/js/787.f81deb61.chunk.js": "/dream-sale-crm/static/js/787.f81deb61.chunk.js",
     "static/media/Dream_Sale_logo-removebg-preview.png": "/dream-sale-crm/static/media/Dream_Sale_logo-removebg-preview.5c43ae13b87350ad8930.png",
     "index.html": "/dream-sale-crm/index.html",
     "main.0e65fe83.css.map": "/dream-sale-crm/static/css/main.0e65fe83.css.map",
-    "main.756ff5ae.js.map": "/dream-sale-crm/static/js/main.756ff5ae.js.map",
+    "main.39521d99.js.map": "/dream-sale-crm/static/js/main.39521d99.js.map",
     "787.f81deb61.chunk.js.map": "/dream-sale-crm/static/js/787.f81deb61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e65fe83.css",
-    "static/js/main.756ff5ae.js"
+    "static/js/main.39521d99.js"
   ]
 }
